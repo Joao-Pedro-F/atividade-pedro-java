@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/atividade-pedrojava.iml" filepath="$PROJECT_DIR$/.idea/atividade-pedrojava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade03/atividade03.iml" filepath="$PROJECT_DIR$/atividade03/atividade03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade04/atividade04.iml" filepath="$PROJECT_DIR$/atividade04/atividade04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade15/atividade15.iml" filepath="$PROJECT_DIR$/atividade15/atividade15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade35/atividade35.iml" filepath="$PROJECT_DIR$/atividade35/atividade35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade75/atividade75.iml" filepath="$PROJECT_DIR$/atividade75/atividade75.iml" />
+    </modules>
+  </component>
+</project>
